@@ -1,0 +1,3 @@
+C:/Users/KEREM/CLionProjects/FlightMap/cmake-build-debug/CMakeFiles/FlightMap.dir
+C:/Users/KEREM/CLionProjects/FlightMap/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/KEREM/CLionProjects/FlightMap/cmake-build-debug/CMakeFiles/rebuild_cache.dir
